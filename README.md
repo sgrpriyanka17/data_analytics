@@ -10,7 +10,7 @@ The Airbnb Global Performance Insights Dashboard provides a centralized, data-dr
 
 The dashboard was built using the following tools and technologies:
 
-_![Alt text](book)Power BI Desktop_- Main data visualisation platform used for report creation.
+_Power BI Desktop_- Main data visualisation platform used for report creation.
 
 _Power Query_- Data transformation and cleaning layer for reshaping and preparing the data.
 
