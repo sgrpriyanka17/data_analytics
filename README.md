@@ -95,5 +95,8 @@ _e.Scalable Growth for Multi-Listing Hosts_:Allows property managers to monitor 
 
 **Screenshots**
 
+1: https://github.com/sgrpriyanka17/data_analytics/blob/main/Airbnb_Dashboard_1.PNG
 
+2:
 
+3:
