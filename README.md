@@ -54,31 +54,31 @@ The goal of the Airbnb Global Performance Insights Dashboard is to enable data-d
 
 _a.New listings(line chart)_
 
-   Showing:Take-off point,Peak point,Precovid new listings
+Showing:Take-off point,Peak point,Precovid new listings
 
 _b.Market share by city(line and stacked column chart)_
 
-    Showing:City contribution,Market share trends,Market concentration,Decline detection,Growth                identification
+Showing:City contribution,Market share trends,Market concentration,Decline detection,Growth                identification
 
 _c.Room types vs average price(stacked bar chart)_
 
-    Showing:Price comparison across room types like entire room, hotel room, shared room, private              room,Contribution of different cities to pricing,High value markets,Contribution of each room type to      revenue potential
+Showing:Price comparison across room types like entire room, hotel room, shared room, private              room,Contribution of different cities to pricing,High value markets,Contribution of each room type to      revenue potential
 
 _d.City vs average rating (stacked column chart)_
 
-    Showing:Cities having highest and lowest guest satisfaction,Contribution of aspects like cleanliness       and value for money to ratings
+Showing:Cities having highest and lowest guest satisfaction,Contribution of aspects like cleanliness       and value for money to ratings
 
 _e.City vs rating- categoiries(matrix table)_
 
-    Showing:Direct city comparison,Category level (accuracy, cleanliness, communication, location, value)      performance,Consistency of experience(Cities with uniformly high scores → consistent quality,Large         variation → inconsistent guest experience)
+Showing:Direct city comparison,Category level (accuracy, cleanliness, communication, location, value)      performance,Consistency of experience(Cities with uniformly high scores → consistent quality,Large         variation → inconsistent guest experience)
 
 _f.Reviewers vs reviews per reviewer(line and stacked column chart)_
 
-    Showing:Reviewer vlome and repeat behaviour,Growth in user engagement,Engagement drop
+Showing:Reviewer vlome and repeat behaviour,Growth in user engagement,Engagement drop
 
 _g.Seasonaltiy(% of monthly reviews in each month in each city) (ribbon chart)_
 
-    Showing:Seasonal travel trends,City ranting over time,Gain/loss of share by city month over month 
+Showing:Seasonal travel trends,City ranting over time,Gain/loss of share by city month over month 
 
 **9.Business impact and insights**
 
